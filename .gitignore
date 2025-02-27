@@ -15,3 +15,4 @@ images/*
 *.csv#
 /server/node_modules/.bin
 /server/node_modules
+*.jpg
